@@ -1,0 +1,171 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+ * Colour tokens. Contrast (WCAG AA) notes:
+ * - fire red #D62828 on white = 5.0:1 and white on #D62828 = 5.0:1 → OK for text and buttons.
+ * - on dark surfaces red text uses --brand-text (#F2706A, ≈ 6.4:1 on #0E121A).
+ * - amber is used for fills/accents with dark text, or as text only on dark backgrounds.
+ */
+:root {
+  --background: #f7f6f3;
+  --foreground: #141821;
+  --surface: #ffffff;
+  --surface-2: #efede8;
+  --muted-foreground: #525866;
+  --border: #e2dfd8;
+  --brand: #d62828;
+  --brand-hover: #b81f1f;
+  --brand-foreground: #ffffff;
+  --brand-text: #b91f1f;
+  --accent: #f0a63a;
+  --accent-foreground: #1d1406;
+  --accent-text: #8a5300;
+  --ink: #111722;
+  --ink-2: #1a2230;
+  --ink-foreground: #eef0f3;
+  --ink-muted: #a9b1bf;
+  --ring: #d62828;
+}
+
+.dark {
+  --background: #0d1118;
+  --foreground: #eef0f3;
+  --surface: #141a24;
+  --surface-2: #1a2230;
+  --muted-foreground: #a3abb9;
+  --border: #283142;
+  --brand: #d62828;
+  --brand-hover: #e23a3a;
+  --brand-foreground: #ffffff;
+  --brand-text: #f2706a;
+  --accent: #f2b155;
+  --accent-foreground: #1d1406;
+  --accent-text: #f2b155;
+  --ink: #090c12;
+  --ink-2: #111722;
+  --ink-foreground: #eef0f3;
+  --ink-muted: #a3abb9;
+  --ring: #f2706a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-brand: var(--brand);
+  --color-brand-hover: var(--brand-hover);
+  --color-brand-foreground: var(--brand-foreground);
+  --color-brand-text: var(--brand-text);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent-text: var(--accent-text);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-foreground: var(--ink-foreground);
+  --color-ink-muted: var(--ink-muted);
+  --color-ring: var(--ring);
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  --shadow-soft: 0 1px 2px rgb(16 24 40 / 0.04), 0 1px 3px rgb(16 24 40 / 0.06);
+  --shadow-lift: 0 2px 4px rgb(16 24 40 / 0.04), 0 8px 24px -6px rgb(16 24 40 / 0.12);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 5.5rem;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv11", "ss01";
+    text-rendering: optimizeLegibility;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-ring;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--brand) 22%, transparent);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-bold tracking-tight text-balance;
+  }
+
+  p {
+    @apply text-pretty;
+  }
+}
+
+@keyframes accordion-down {
+  from { height: 0; }
+  to { height: var(--radix-accordion-content-height); }
+}
+@keyframes accordion-up {
+  from { height: var(--radix-accordion-content-height); }
+  to { height: 0; }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slide-in {
+  from { transform: translateX(100%); }
+  to { transform: translateX(0); }
+}
+@keyframes rise-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@utility container-page {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+/* Subtle technical grid used on dark ink sections instead of decorative blobs. */
+@utility bg-grid {
+  background-image:
+    linear-gradient(to right, rgb(255 255 255 / 0.045) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(255 255 255 / 0.045) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+@utility bg-hatch {
+  background-image: repeating-linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--foreground) 6%, transparent) 0 1px,
+    transparent 1px 12px
+  );
+}

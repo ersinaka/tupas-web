@@ -1,0 +1,422 @@
+{
+  "Meta": {
+    "home": {
+      "title": "İstanbul Yangın Söndürme Cihazı Üreticisi | Tüpaş",
+      "description": "1983'ten beri İstanbul'da yangın güvenliği: TSE belgeli yangın söndürme cihazı üretimi, yangın tüpü dolumu, davlumbaz sistemleri. Ücretsiz keşif."
+    },
+    "products": {
+      "title": "Yangın Güvenliği Ürünleri",
+      "description": "Yangın söndürme cihazları, yangın dolapları, hidrant, algılama ve FM200 gazlı söndürme sistemleri. Üreticiden teklif alın."
+    },
+    "services": {
+      "title": "Yangın Güvenliği Hizmetleri",
+      "description": "Ücretsiz keşif, yangın tüpü dolumu ve bakımı, itfaiye ruhsatı desteği, yangın tatbikatı ve davlumbaz söndürme sistemi kurulumu."
+    },
+    "safety": {
+      "title": "İş Güvenliği Malzemeleri",
+      "description": "İtfaiyeci giysileri, baş koruyucular, eldivenler, solunum koruma, kimyasal koruyucu giysiler ve gaz ölçüm cihazları."
+    },
+    "about": {
+      "title": "Hakkımızda: 1983'ten Beri Yangın Güvenliği",
+      "description": "1983'te kurulan Tüpaş, 1989'dan beri Yenibosna'daki tesisinde TSE belgeli yangın söndürme cihazı üretiyor. Hikâyemiz, tesisimiz ve kalite testlerimiz."
+    },
+    "certificates": {
+      "title": "Belgeler ve Sertifikalar",
+      "description": "Tüpaş yangın söndürme cihazlarının TSE, TS 862 EN3, CE ve ISO 9001 belgeleri. Belge kopyalarını talep edebilirsiniz."
+    },
+    "blog": {
+      "title": "Yangın Güvenliği Rehberi ve Blog",
+      "description": "Yangın tüpü bakımı, itfaiye ruhsatı süreci ve doğru yangın söndürücü seçimi hakkında pratik rehberler."
+    },
+    "contact": {
+      "title": "İletişim – Yenibosna, Bahçelievler",
+      "description": "Tüpaş Yangın Güvenlik Sistemleri: Doğu Sanayi Sitesi, Yenibosna, Bahçelievler / İstanbul. Telefon, adres ve yol tarifi."
+    },
+    "quote": {
+      "title": "Teklif Al veya Ücretsiz Keşif İste",
+      "description": "Yangın söndürme cihazı, dolum-bakım ve yangın sistemleri için ücretsiz keşif ve teklif talep edin. İstanbul genelinde hizmet."
+    },
+    "notFound": {
+      "title": "Sayfa bulunamadı"
+    }
+  },
+  "Common": {
+    "skipToContent": "İçeriğe geç",
+    "callUs": "Bizi arayın",
+    "requestQuote": "Teklif Al",
+    "freeSurvey": "Ücretsiz Keşif Talep Et",
+    "learnMore": "Ayrıntılar",
+    "viewAll": "Tümünü gör",
+    "downloadCatalog": "Kataloğu indir (PDF)",
+    "home": "Ana sayfa",
+    "opensInNewTab": "(yeni sekmede açılır)",
+    "inHouse": "Kendi üretimimiz",
+    "productCount": "{count, plural, one {# ürün} other {# ürün}}",
+    "whatsapp": "WhatsApp ile yaz",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "address": "Adres",
+    "hours": "Çalışma saatleri",
+    "hoursUnknown": "Çalışma saatleri için lütfen arayın.",
+    "readMore": "Devamını oku",
+    "imagePending": "Görsel hazırlanıyor"
+  },
+  "Nav": {
+    "mainLabel": "Ana menü",
+    "home": "Ana sayfa",
+    "products": "Ürünler",
+    "fireProducts": "Yangın güvenliği ürünleri",
+    "safety": "İş Güvenliği",
+    "safetyLong": "İş güvenliği malzemeleri",
+    "services": "Hizmetler",
+    "corporate": "Kurumsal",
+    "about": "Hakkımızda",
+    "certificates": "Belgeler",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "menu": "Menüyü aç",
+    "menuTitle": "Menü",
+    "closeMenu": "Menüyü kapat",
+    "allProducts": "Tüm ürünler",
+    "allServices": "Tüm hizmetler",
+    "allSafety": "Tüm iş güvenliği ürünleri",
+    "megaTitle": "Üreticiden yangın güvenliği",
+    "megaText": "Söndürme cihazlarımızı 1989'dan beri kendi tesisimizde üretiyoruz.",
+    "language": "Dil",
+    "switchLocale": "English",
+    "switchLocaleLabel": "Switch to English",
+    "themeToggle": "Açık / koyu tema"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "İstanbul · Yenibosna",
+      "title": "Üretimden bakıma yangın güvenliği tek çatı altında",
+      "titleAccent": "1983'ten beri",
+      "lead": "Yangın söndürme cihazlarını 1989'dan beri kendi tesisimizde üretiyoruz. Keşif, kurulum, dolum ve periyodik bakımı aynı ekipten alın; İstanbul genelinde hizmet veriyoruz.",
+      "points": {
+        "tse": "TSE belgeli üretim",
+        "survey": "Ücretsiz keşif",
+        "istanbul": "İstanbul geneli servis"
+      },
+      "imageAlt": "Kolunun altında Tüpaş yangın söndürme cihazı taşıyan itfaiyeci"
+    },
+    "trust": {
+      "label": "Tüpaş'ı öne çıkaranlar",
+      "experience": "yıllık sektör deneyimi",
+      "production": "yıldır kendi tesisimizde üretim",
+      "tseTitle": "TS 862 EN3",
+      "tseText": "TSE belgeli söndürme cihazları",
+      "certTitle": "CE · ISO 9001",
+      "certText": "Uygunluk ve kalite yönetimi"
+    },
+    "services": {
+      "eyebrow": "Hizmetler",
+      "title": "Kurulumdan sonra da yanınızdayız",
+      "lead": "Cihazı teslim edip ayrılmıyoruz. Keşiften ruhsata, dolumdan tatbikata kadar yangın güvenliğinizin her adımını takip ediyoruz."
+    },
+    "categories": {
+      "eyebrow": "Ürünler",
+      "title": "Yangın güvenliği ürünleri",
+      "lead": "Taşınabilir söndürücülerden otomatik söndürme sistemlerine kadar ihtiyacınız olan ekipmanı tek noktadan temin edin.",
+      "all": "Tüm ürün kategorileri"
+    },
+    "why": {
+      "eyebrow": "Neden Tüpaş",
+      "title": "Üreticiden almanın farkı",
+      "items": {
+        "manufacturer": {
+          "title": "Üreticiyiz, aracı değil",
+          "text": "Yangın söndürme cihazlarını Yenibosna'daki kendi tesisimizde üretiyoruz. Ürünün nasıl yapıldığını bildiğimiz için doğru cihazı önerebiliyoruz."
+        },
+        "tested": {
+          "title": "Her cihaz test edilir",
+          "text": "Ürettiğimiz cihazlar sevkiyattan önce basınç, yorulma ve çökme testlerinden geçer."
+        },
+        "service": {
+          "title": "Hızlı servis",
+          "text": "Dolum ve bakımı kendi tesisimizde yapıyoruz; İstanbul genelinde, özellikle Bahçelievler ve çevresinde hızlı randevu planlıyoruz."
+        },
+        "tracking": {
+          "title": "Periyodik bakım takibi",
+          "text": "Kurumsal müşterilerimizin bakım tarihlerini biz takip eder, zamanı geldiğinde hatırlatırız. Denetim öncesi sürpriz yaşamazsınız."
+        }
+      }
+    },
+    "process": {
+      "eyebrow": "Süreç",
+      "title": "Dört adımda yangın güvenliği",
+      "steps": {
+        "survey": {
+          "title": "Keşif",
+          "text": "Mekânınızı yerinde inceliyor, riskleri ve mevcut ekipmanı değerlendiriyoruz."
+        },
+        "quote": {
+          "title": "Teklif",
+          "text": "Cihaz tipi, adedi ve yerleşimini içeren net bir teklif hazırlıyoruz."
+        },
+        "install": {
+          "title": "Kurulum",
+          "text": "Cihaz ve sistemleri teslim edip montajını yapıyor, kullanımını anlatıyoruz."
+        },
+        "maintenance": {
+          "title": "Periyodik bakım",
+          "text": "Bakım ve dolum tarihlerini takip ediyor, cihazlarınızı her an hazır tutuyoruz."
+        }
+      }
+    },
+    "sectors": {
+      "eyebrow": "Sektörler",
+      "title": "Hizmet verdiğimiz sektörler",
+      "lead": "Her sektörün yangın riski farklıdır. Çözümlerimizi mekânınızın kullanım amacına göre belirliyoruz.",
+      "referencesTitle": "Referanslar",
+      "referencesNote": "Referans firmalarımızı yakında burada paylaşacağız."
+    },
+    "faq": {
+      "eyebrow": "SSS",
+      "title": "Sık sorulan sorular"
+    },
+    "quote": {
+      "eyebrow": "Teklif ve keşif",
+      "title": "Ücretsiz keşif veya teklif talep edin",
+      "lead": "Formu doldurun, ihtiyacınızı dinleyip size dönelim. Acele ediyorsanız doğrudan arayabilirsiniz."
+    }
+  },
+  "QuoteForm": {
+    "title": "Teklif formu",
+    "name": "Ad soyad",
+    "company": "Firma",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "optional": "(isteğe bağlı)",
+    "interest": "İlgilendiğiniz ürün veya hizmet",
+    "interestPlaceholder": "Seçiniz",
+    "groups": {
+      "services": "Hizmetler",
+      "fire": "Yangın güvenliği ürünleri",
+      "safety": "İş güvenliği malzemeleri",
+      "selected": "Seçili ürün"
+    },
+    "other": "Diğer / emin değilim",
+    "message": "Mesajınız",
+    "messagePlaceholder": "Mekânınız, cihaz adedi veya sorunuz hakkında kısa bilgi verebilirsiniz.",
+    "kvkk": "<link>KVKK Aydınlatma Metni</link>'ni okudum; kişisel verilerimin talebimin yanıtlanması amacıyla işlenmesini kabul ediyorum.",
+    "honeypot": "Bu alanı boş bırakın",
+    "submit": "Talebi gönder",
+    "submitting": "Gönderiliyor…",
+    "required": "Zorunlu alan",
+    "successTitle": "Talebiniz alındı",
+    "successText": "Teşekkürler. En kısa sürede sizinle iletişime geçeceğiz.",
+    "errorTitle": "Gönderilemedi",
+    "errorText": "Bir sorun oluştu. Lütfen tekrar deneyin ya da bizi telefonla arayın.",
+    "rateLimited": "Çok fazla deneme yapıldı. Lütfen birkaç dakika sonra tekrar deneyin.",
+    "errors": {
+      "nameRequired": "Lütfen adınızı ve soyadınızı yazın.",
+      "phoneInvalid": "Lütfen geçerli bir telefon numarası yazın.",
+      "emailInvalid": "Lütfen geçerli bir e-posta adresi yazın.",
+      "interestRequired": "Lütfen bir seçim yapın.",
+      "kvkkRequired": "Devam etmek için aydınlatma metnini onaylayın.",
+      "tooLong": "Bu alan çok uzun."
+    }
+  },
+  "Footer": {
+    "tagline": "1983'ten beri İstanbul'da yangın güvenliği. 1989'dan beri kendi tesisimizde üretim.",
+    "products": "Ürünler",
+    "services": "Hizmetler",
+    "corporate": "Kurumsal",
+    "contact": "İletişim",
+    "kvkk": "KVKK",
+    "privacy": "Gizlilik",
+    "cookies": "Çerez politikası",
+    "cookiePrefs": "Çerez tercihleri",
+    "rights": "© {year} {name}. Tüm hakları saklıdır.",
+    "social": "Sosyal medya",
+    "oldBlog": "Blogspot"
+  },
+  "Cookie": {
+    "label": "Çerez bildirimi",
+    "text": "Sitemiz yalnızca dil, tema ve bu tercihinizi hatırlamak için zorunlu çerezler kullanır. Analitik veya reklam çerezi kullanmıyoruz.",
+    "accept": "Kabul et",
+    "reject": "Yalnızca zorunlu",
+    "policy": "Çerez politikası"
+  },
+  "Breadcrumb": {
+    "label": "Sayfa konumu"
+  },
+  "CtaBand": {
+    "title": "Hangi ürünün size uygun olduğundan emin değil misiniz?",
+    "text": "Mekânınızı ücretsiz inceleyip ihtiyacınızı birlikte belirleyelim."
+  },
+  "Products": {
+    "eyebrow": "Ürünler",
+    "title": "Yangın güvenliği ürünleri",
+    "lead": "Ürettiğimiz yangın söndürme cihazlarından otomatik söndürme ve algılama sistemlerine kadar tüm ürün grupları. Fiyatlar ihtiyaca göre belirlenir; teklif için bize ulaşın.",
+    "safetyTeaserTitle": "İş güvenliği malzemeleri mi arıyorsunuz?",
+    "safetyTeaserText": "İtfaiyeci giysileri, solunum koruma ve kişisel koruyucu ekipmanlar ayrı bir bölümde.",
+    "safetyTeaserCta": "İş güvenliğine git",
+    "filterLabel": "Ürün tipine göre filtrele",
+    "filterAll": "Tümü",
+    "results": "{count, plural, one {# ürün gösteriliyor} other {# ürün gösteriliyor}}",
+    "empty": "Bu filtrede ürün bulunamadı.",
+    "specs": "Teknik özellikler",
+    "features": "Öne çıkan özellikler",
+    "standards": "Standart ve belgeler",
+    "standardsNote": "Güncel belge kopyaları talep üzerine paylaşılır.",
+    "requestQuote": "Bu ürün için teklif iste",
+    "priceNote": "Fiyat; adet, model ve montaj ihtiyacına göre belirlenir. Size özel teklif için formu doldurun veya bizi arayın.",
+    "related": "Benzer ürünler",
+    "categoryProducts": "Bu kategorideki ürünler",
+    "otherCategories": "Diğer kategoriler"
+  },
+  "Specs": {
+    "agent": "Söndürücü madde",
+    "capacity": "Kapasite",
+    "fireClasses": "Yangın sınıfı",
+    "operation": "Çalışma prensibi",
+    "body": "Gövde",
+    "dimensions": "Ölçüler",
+    "material": "Malzeme",
+    "length": "Hortum uzunluğu",
+    "diameter": "Çap",
+    "pressure": "Çalışma basıncı",
+    "use": "Kullanım alanı",
+    "type": "Sistem tipi",
+    "scope": "Kapsam",
+    "size": "Boyut",
+    "power": "Güç",
+    "protection": "Koruma sınıfı"
+  },
+  "Services": {
+    "eyebrow": "Hizmetler",
+    "title": "Yangın güvenliği hizmetleri",
+    "lead": "Doğru ekipmanı seçmekten denetime hazırlanmaya kadar, yangın güvenliğinizi baştan sona birlikte yönetelim.",
+    "includes": "Hizmete dahil olanlar",
+    "relatedProducts": "İlgili ürün grupları",
+    "faq": "Sık sorulan sorular",
+    "otherServices": "Diğer hizmetler"
+  },
+  "Safety": {
+    "eyebrow": "İş Güvenliği",
+    "title": "İş güvenliği malzemeleri",
+    "lead": "İtfaiye ekipleri, acil durum ekipleri ve çalışanlar için kişisel koruyucu ekipman. Yangın güvenliği ürünlerimizden ayrı olarak listelenir.",
+    "fireTeaserTitle": "Yangın söndürme ürünleri mi arıyorsunuz?",
+    "fireTeaserText": "Söndürme cihazları, dolaplar ve sistemler için yangın ürünleri bölümüne göz atın.",
+    "fireTeaserCta": "Yangın ürünlerine git"
+  },
+  "About": {
+    "eyebrow": "Hakkımızda",
+    "title": "1983'ten beri yangın güvenliği",
+    "lead": "Tüpaş, 1983'ten bu yana İstanbul'da yangın ve güvenlik sektöründe hizmet veriyor. 1989'dan beri yangın söndürme cihazlarını Yenibosna'daki kendi tesisimizde üretiyoruz.",
+    "storyTitle": "Hikâyemiz",
+    "timeline": {
+      "founded": {
+        "title": "Kuruluş",
+        "text": "Tüpaş, yangın ve güvenlik ekipmanları alanında faaliyete başladı."
+      },
+      "production": {
+        "title": "Kendi tesisimizde üretim",
+        "text": "Doğu Sanayi Sitesi'ndeki tesisimizde yangın söndürme cihazı üretimine başladık."
+      },
+      "today": {
+        "title": "Bugün",
+        "text": "Üretim, dolum-bakım, sistem kurulumu ve iş güvenliği malzemeleriyle İstanbul genelinde hizmet veriyoruz."
+      }
+    },
+    "facilityTitle": "Tesisimiz",
+    "facilityText": "Yenibosna'daki Doğu Sanayi Sitesi'nde bulunan tesisimizde TSE belgeli kuru kimyevi tozlu, CO2'li, köpüklü ve sulu yangın söndürme cihazları üretiyoruz. Yangın tüpü dolum ve bakımını da aynı tesiste yapıyoruz.",
+    "facilityImageAlt": "Tüpaş üretim tesisi, Yenibosna",
+    "qualityTitle": "Kalite testleri",
+    "qualityLead": "Ürettiğimiz her cihaz sevkiyattan önce üç temel testten geçer:",
+    "tests": {
+      "pressure": {
+        "title": "Basınç testi",
+        "text": "Gövdenin çalışma basıncının üzerindeki değerlere dayanıklılığı kontrol edilir."
+      },
+      "fatigue": {
+        "title": "Yorulma testi",
+        "text": "Tekrarlanan basınç döngülerine karşı malzemenin dayanımı sınanır."
+      },
+      "collapse": {
+        "title": "Çökme testi",
+        "text": "Gövdenin dış etkilere karşı biçimini koruyup korumadığı kontrol edilir."
+      }
+    },
+    "valuesTitle": "Çalışma ilkelerimiz",
+    "values": {
+      "honest": {
+        "title": "Doğru ürünü önermek",
+        "text": "İhtiyacınız olandan fazlasını değil, mekânınıza gerçekten uygun olanı öneririz."
+      },
+      "reachable": {
+        "title": "Ulaşılabilir olmak",
+        "text": "Satıştan sonra da telefonun ucundayız; bakım ve dolum takibini biz yaparız."
+      },
+      "standards": {
+        "title": "Standartlara bağlılık",
+        "text": "Üretimde ilgili standartlara ve belgelendirme gereksinimlerine uyarız."
+      }
+    }
+  },
+  "Certificates": {
+    "eyebrow": "Belgeler",
+    "title": "Belgeler ve sertifikalar",
+    "lead": "Ürettiğimiz yangın söndürme cihazları ve kalite yönetim sistemimizle ilgili belgeler. Güncel belge kopyalarını talep etmeniz hâlinde paylaşıyoruz.",
+    "items": {
+      "tse": "Türk Standartları Enstitüsü tarafından verilen belge; taşınabilir yangın söndürme cihazlarının TS 862 EN3 standardına uygunluğunu gösterir.",
+      "ce": "Ürünlerin Avrupa Birliği mevzuatındaki temel güvenlik gerekliliklerine uygunluğunu gösteren işaret.",
+      "iso9001": "Üretim ve hizmet süreçlerimizin uluslararası kalite yönetim sistemi standardına göre yürütüldüğünü gösterir."
+    },
+    "validUntil": "Geçerlilik: {date}",
+    "validityPending": "Geçerlilik bilgisi güncelleniyor",
+    "documentPending": "Belge görseli hazırlanıyor",
+    "requestCopy": "Belge kopyası iste"
+  },
+  "Blog": {
+    "eyebrow": "Blog",
+    "title": "Yangın güvenliği rehberi",
+    "lead": "Yangın tüpü bakımından itfaiye ruhsatına kadar sık sorulan konularda pratik bilgiler.",
+    "readingTime": "{minutes} dk okuma",
+    "published": "Yayın tarihi",
+    "allPosts": "Tüm yazılar",
+    "empty": "Henüz yazı yok."
+  },
+  "Contact": {
+    "eyebrow": "İletişim",
+    "title": "Bize ulaşın",
+    "lead": "Teklif, keşif veya dolum-bakım için formu doldurun ya da doğrudan arayın.",
+    "infoTitle": "İletişim bilgileri",
+    "formTitle": "Mesaj gönderin",
+    "mapTitle": "Konum",
+    "mapLoad": "Haritayı yükle",
+    "mapNote": "Harita Google Maps üzerinden yüklenir ve Google çerezleri kullanabilir.",
+    "openInMaps": "Google Haritalar'da aç",
+    "serviceArea": "İstanbul genelinde hizmet veriyoruz; Bahçelievler, Bakırköy, Küçükçekmece, Esenyurt ve Başakşehir'e yakınız."
+  },
+  "Quote": {
+    "eyebrow": "Teklif",
+    "title": "Teklif alın veya ücretsiz keşif isteyin",
+    "lead": "Birkaç bilgi yeterli. Talebinizi aldıktan sonra sizi arayıp ihtiyacınızı netleştiriyoruz.",
+    "benefitsTitle": "Neler olacak?",
+    "benefits": {
+      "call": "Talebinizi inceleyip sizi arıyoruz.",
+      "survey": "Gerekirse mekânınızda ücretsiz keşif yapıyoruz.",
+      "offer": "Net ve yazılı bir teklif hazırlıyoruz."
+    }
+  },
+  "Legal": {
+    "updated": "Son güncelleme: {date}",
+    "draftNote": "Bu metin bilgilendirme amaçlıdır ve yayından önce hukuki incelemeden geçirilecektir."
+  },
+  "NotFound": {
+    "title": "Aradığınız sayfa bulunamadı",
+    "text": "Sayfa taşınmış veya kaldırılmış olabilir. Aşağıdaki bağlantılardan devam edebilirsiniz.",
+    "home": "Ana sayfaya dön",
+    "products": "Ürünlere göz at",
+    "contact": "Bize ulaşın"
+  },
+  "Error": {
+    "title": "Bir şeyler ters gitti",
+    "text": "Sayfa yüklenirken beklenmeyen bir hata oluştu. Lütfen tekrar deneyin.",
+    "retry": "Tekrar dene",
+    "home": "Ana sayfaya dön"
+  }
+}

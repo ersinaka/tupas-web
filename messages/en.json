@@ -1,0 +1,422 @@
+{
+  "Meta": {
+    "home": {
+      "title": "Fire Extinguisher Manufacturer in Istanbul | Tüpaş",
+      "description": "Fire safety in Istanbul since 1983: TSE-certified extinguishers made in-house, refilling, servicing and kitchen hood systems. Free site survey."
+    },
+    "products": {
+      "title": "Fire Safety Products",
+      "description": "Fire extinguishers, hose cabinets, hydrants, fire detection and FM200 clean agent suppression systems. Get a quote from the manufacturer."
+    },
+    "services": {
+      "title": "Fire Safety Services",
+      "description": "Free site surveys, extinguisher refilling and servicing, fire permit support, fire drills and kitchen hood suppression installation."
+    },
+    "safety": {
+      "title": "Occupational Safety Equipment",
+      "description": "Firefighter clothing, head protection, gloves, respiratory protection, chemical protective clothing and gas detectors."
+    },
+    "about": {
+      "title": "About Us: Fire Safety Since 1983",
+      "description": "Founded in 1983, Tüpaş has manufactured TSE-certified fire extinguishers in its own Yenibosna facility since 1989. Our story, plant and quality testing."
+    },
+    "certificates": {
+      "title": "Certificates and Approvals",
+      "description": "TSE, TS 862 EN3, CE and ISO 9001 certification for Tüpaş fire extinguishers. Copies are available on request."
+    },
+    "blog": {
+      "title": "Fire Safety Guides and Blog",
+      "description": "Practical guides on extinguisher servicing, the fire department permit process and choosing the right extinguisher."
+    },
+    "contact": {
+      "title": "Contact – Yenibosna, Bahçelievler",
+      "description": "Tüpaş Yangın Güvenlik Sistemleri: Doğu Sanayi Sitesi, Yenibosna, Bahçelievler / Istanbul. Phone, address and directions."
+    },
+    "quote": {
+      "title": "Request a Quote or Free Site Survey",
+      "description": "Request a free site survey or quote for fire extinguishers, refilling and servicing, or fire protection systems anywhere in Istanbul."
+    },
+    "notFound": {
+      "title": "Page not found"
+    }
+  },
+  "Common": {
+    "skipToContent": "Skip to content",
+    "callUs": "Call us",
+    "requestQuote": "Get a Quote",
+    "freeSurvey": "Book a Free Site Survey",
+    "learnMore": "Details",
+    "viewAll": "View all",
+    "downloadCatalog": "Download catalogue (PDF)",
+    "home": "Home",
+    "opensInNewTab": "(opens in a new tab)",
+    "inHouse": "Made in-house",
+    "productCount": "{count, plural, one {# product} other {# products}}",
+    "whatsapp": "Message us on WhatsApp",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "hours": "Opening hours",
+    "hoursUnknown": "Please call us for opening hours.",
+    "readMore": "Read more",
+    "imagePending": "Image coming soon"
+  },
+  "Nav": {
+    "mainLabel": "Main navigation",
+    "home": "Home",
+    "products": "Products",
+    "fireProducts": "Fire safety products",
+    "safety": "Safety Equipment",
+    "safetyLong": "Occupational safety equipment",
+    "services": "Services",
+    "corporate": "Company",
+    "about": "About us",
+    "certificates": "Certificates",
+    "blog": "Blog",
+    "contact": "Contact",
+    "menu": "Open menu",
+    "menuTitle": "Menu",
+    "closeMenu": "Close menu",
+    "allProducts": "All products",
+    "allServices": "All services",
+    "allSafety": "All safety equipment",
+    "megaTitle": "Fire safety from the manufacturer",
+    "megaText": "We have made our extinguishers in our own facility since 1989.",
+    "language": "Language",
+    "switchLocale": "Türkçe",
+    "switchLocaleLabel": "Türkçe'ye geç",
+    "themeToggle": "Light / dark theme"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Istanbul · Yenibosna",
+      "title": "Fire safety from production to maintenance, under one roof",
+      "titleAccent": "since 1983",
+      "lead": "We have manufactured fire extinguishers in our own facility since 1989. Get surveys, installation, refilling and periodic servicing from the same team, anywhere in Istanbul.",
+      "points": {
+        "tse": "TSE-certified production",
+        "survey": "Free site survey",
+        "istanbul": "Service across Istanbul"
+      },
+      "imageAlt": "Firefighter carrying a Tüpaş fire extinguisher under one arm"
+    },
+    "trust": {
+      "label": "Why customers trust Tüpaş",
+      "experience": "years in fire safety",
+      "production": "years manufacturing in-house",
+      "tseTitle": "TS 862 EN3",
+      "tseText": "TSE-certified extinguishers",
+      "certTitle": "CE · ISO 9001",
+      "certText": "Conformity and quality management"
+    },
+    "services": {
+      "eyebrow": "Services",
+      "title": "We stay with you after installation",
+      "lead": "We don't just deliver and leave. From the first survey to your permit, from refilling to staff drills, we look after every step of your fire safety."
+    },
+    "categories": {
+      "eyebrow": "Products",
+      "title": "Fire safety products",
+      "lead": "From portable extinguishers to automatic suppression systems, source everything you need from one supplier.",
+      "all": "All product categories"
+    },
+    "why": {
+      "eyebrow": "Why Tüpaş",
+      "title": "The difference of buying from the manufacturer",
+      "items": {
+        "manufacturer": {
+          "title": "A manufacturer, not a middleman",
+          "text": "We make our fire extinguishers in our own facility in Yenibosna. Knowing exactly how they are built means we can recommend the right one."
+        },
+        "tested": {
+          "title": "Every unit is tested",
+          "text": "Every extinguisher we make goes through pressure, fatigue and collapse testing before it ships."
+        },
+        "service": {
+          "title": "Fast service",
+          "text": "Refilling and servicing happen in our own facility, and we schedule visits quickly across Istanbul, especially around Bahçelievler."
+        },
+        "tracking": {
+          "title": "Maintenance tracking",
+          "text": "We keep track of service dates for our business customers and remind you when they are due, so inspections hold no surprises."
+        }
+      }
+    },
+    "process": {
+      "eyebrow": "How it works",
+      "title": "Fire safety in four steps",
+      "steps": {
+        "survey": {
+          "title": "Survey",
+          "text": "We visit your premises and assess the risks and your existing equipment."
+        },
+        "quote": {
+          "title": "Quote",
+          "text": "You receive a clear quote covering types, quantities and placement."
+        },
+        "install": {
+          "title": "Installation",
+          "text": "We deliver and install the equipment and show your team how to use it."
+        },
+        "maintenance": {
+          "title": "Periodic servicing",
+          "text": "We track service and refill dates so your equipment is always ready."
+        }
+      }
+    },
+    "sectors": {
+      "eyebrow": "Sectors",
+      "title": "Sectors we serve",
+      "lead": "Every sector carries different fire risks, so we tailor our solutions to how your premises are used.",
+      "referencesTitle": "References",
+      "referencesNote": "We will be sharing our client references here soon."
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Frequently asked questions"
+    },
+    "quote": {
+      "eyebrow": "Quote and survey",
+      "title": "Request a free site survey or quote",
+      "lead": "Fill in the form and we will get back to you once we understand what you need. In a hurry? Just give us a call."
+    }
+  },
+  "QuoteForm": {
+    "title": "Quote form",
+    "name": "Full name",
+    "company": "Company",
+    "phone": "Phone",
+    "email": "Email",
+    "optional": "(optional)",
+    "interest": "Product or service you're interested in",
+    "interestPlaceholder": "Please select",
+    "groups": {
+      "services": "Services",
+      "fire": "Fire safety products",
+      "safety": "Safety equipment",
+      "selected": "Selected product"
+    },
+    "other": "Other / not sure",
+    "message": "Your message",
+    "messagePlaceholder": "Tell us briefly about your premises, the number of units or your question.",
+    "kvkk": "I have read the <link>KVKK Privacy Notice</link> and agree to my personal data being processed to respond to my request.",
+    "honeypot": "Leave this field empty",
+    "submit": "Send request",
+    "submitting": "Sending…",
+    "required": "Required",
+    "successTitle": "Request received",
+    "successText": "Thank you. We will be in touch shortly.",
+    "errorTitle": "Couldn't send",
+    "errorText": "Something went wrong. Please try again or give us a call.",
+    "rateLimited": "Too many attempts. Please try again in a few minutes.",
+    "errors": {
+      "nameRequired": "Please enter your full name.",
+      "phoneInvalid": "Please enter a valid phone number.",
+      "emailInvalid": "Please enter a valid email address.",
+      "interestRequired": "Please make a selection.",
+      "kvkkRequired": "Please accept the privacy notice to continue.",
+      "tooLong": "This field is too long."
+    }
+  },
+  "Footer": {
+    "tagline": "Fire safety in Istanbul since 1983. Manufacturing in our own facility since 1989.",
+    "products": "Products",
+    "services": "Services",
+    "corporate": "Company",
+    "contact": "Contact",
+    "kvkk": "KVKK notice",
+    "privacy": "Privacy",
+    "cookies": "Cookie policy",
+    "cookiePrefs": "Cookie preferences",
+    "rights": "© {year} {name}. All rights reserved.",
+    "social": "Social media",
+    "oldBlog": "Blogspot"
+  },
+  "Cookie": {
+    "label": "Cookie notice",
+    "text": "We only use essential cookies to remember your language, theme and this choice. We don't use analytics or advertising cookies.",
+    "accept": "Accept",
+    "reject": "Essential only",
+    "policy": "Cookie policy"
+  },
+  "Breadcrumb": {
+    "label": "Breadcrumb"
+  },
+  "CtaBand": {
+    "title": "Not sure which product is right for you?",
+    "text": "Let us survey your premises for free and work out what you need together."
+  },
+  "Products": {
+    "eyebrow": "Products",
+    "title": "Fire safety products",
+    "lead": "Every product group, from the extinguishers we manufacture to automatic suppression and detection systems. Pricing depends on your needs, so get in touch for a quote.",
+    "safetyTeaserTitle": "Looking for occupational safety equipment?",
+    "safetyTeaserText": "Firefighter clothing, respiratory protection and PPE have their own section.",
+    "safetyTeaserCta": "Go to safety equipment",
+    "filterLabel": "Filter by product type",
+    "filterAll": "All",
+    "results": "{count, plural, one {Showing # product} other {Showing # products}}",
+    "empty": "No products match this filter.",
+    "specs": "Specifications",
+    "features": "Key features",
+    "standards": "Standards and certificates",
+    "standardsNote": "Copies of current certificates are available on request.",
+    "requestQuote": "Request a quote for this product",
+    "priceNote": "Pricing depends on quantity, model and installation needs. Fill in the form or call us for a tailored quote.",
+    "related": "Similar products",
+    "categoryProducts": "Products in this category",
+    "otherCategories": "Other categories"
+  },
+  "Specs": {
+    "agent": "Extinguishing agent",
+    "capacity": "Capacity",
+    "fireClasses": "Fire classes",
+    "operation": "Operation",
+    "body": "Body",
+    "dimensions": "Dimensions",
+    "material": "Material",
+    "length": "Hose length",
+    "diameter": "Diameter",
+    "pressure": "Working pressure",
+    "use": "Typical use",
+    "type": "System type",
+    "scope": "Scope",
+    "size": "Size",
+    "power": "Power",
+    "protection": "Protection rating"
+  },
+  "Services": {
+    "eyebrow": "Services",
+    "title": "Fire safety services",
+    "lead": "From choosing the right equipment to preparing for an inspection, let's manage your fire safety together from start to finish.",
+    "includes": "What's included",
+    "relatedProducts": "Related product groups",
+    "faq": "Frequently asked questions",
+    "otherServices": "Other services"
+  },
+  "Safety": {
+    "eyebrow": "Safety Equipment",
+    "title": "Occupational safety equipment",
+    "lead": "Personal protective equipment for fire brigades, emergency teams and workers, listed separately from our fire safety products.",
+    "fireTeaserTitle": "Looking for firefighting products?",
+    "fireTeaserText": "Browse the fire products section for extinguishers, cabinets and systems.",
+    "fireTeaserCta": "Go to fire products"
+  },
+  "About": {
+    "eyebrow": "About us",
+    "title": "Fire safety since 1983",
+    "lead": "Tüpaş has worked in fire and safety in Istanbul since 1983. Since 1989 we have manufactured fire extinguishers in our own facility in Yenibosna.",
+    "storyTitle": "Our story",
+    "timeline": {
+      "founded": {
+        "title": "Founded",
+        "text": "Tüpaş started out supplying fire and safety equipment."
+      },
+      "production": {
+        "title": "Our own production",
+        "text": "We began manufacturing fire extinguishers at our facility in Doğu Sanayi Sitesi."
+      },
+      "today": {
+        "title": "Today",
+        "text": "We serve all of Istanbul with manufacturing, refilling and servicing, system installation and safety equipment."
+      }
+    },
+    "facilityTitle": "Our facility",
+    "facilityText": "At our facility in Doğu Sanayi Sitesi, Yenibosna, we manufacture TSE-certified dry powder, CO2, foam and water fire extinguishers. Refilling and servicing are carried out at the same site.",
+    "facilityImageAlt": "Tüpaş manufacturing facility, Yenibosna",
+    "qualityTitle": "Quality testing",
+    "qualityLead": "Every extinguisher we make passes three core tests before it ships:",
+    "tests": {
+      "pressure": {
+        "title": "Pressure test",
+        "text": "Checks that the body withstands pressures above its working pressure."
+      },
+      "fatigue": {
+        "title": "Fatigue test",
+        "text": "Tests how the material holds up under repeated pressure cycles."
+      },
+      "collapse": {
+        "title": "Collapse test",
+        "text": "Checks that the body keeps its shape under external loads."
+      }
+    },
+    "valuesTitle": "How we work",
+    "values": {
+      "honest": {
+        "title": "Recommending the right product",
+        "text": "We recommend what genuinely suits your premises, not more than you need."
+      },
+      "reachable": {
+        "title": "Staying reachable",
+        "text": "We're still a phone call away after the sale, and we keep track of servicing and refills for you."
+      },
+      "standards": {
+        "title": "Commitment to standards",
+        "text": "Our production follows the relevant standards and certification requirements."
+      }
+    }
+  },
+  "Certificates": {
+    "eyebrow": "Certificates",
+    "title": "Certificates and approvals",
+    "lead": "Certification for the fire extinguishers we manufacture and for our quality management system. We are happy to share copies of current certificates on request.",
+    "items": {
+      "tse": "Issued by the Turkish Standards Institution (TSE), confirming our portable fire extinguishers conform to TS 862 EN3.",
+      "ce": "Marking that shows products meet the essential safety requirements of EU legislation.",
+      "iso9001": "Shows our production and service processes are run to the international quality management standard."
+    },
+    "validUntil": "Valid until: {date}",
+    "validityPending": "Validity details being updated",
+    "documentPending": "Certificate image coming soon",
+    "requestCopy": "Request a copy"
+  },
+  "Blog": {
+    "eyebrow": "Blog",
+    "title": "Fire safety guides",
+    "lead": "Practical advice on common questions, from extinguisher servicing to fire department permits.",
+    "readingTime": "{minutes} min read",
+    "published": "Published",
+    "allPosts": "All articles",
+    "empty": "No articles yet."
+  },
+  "Contact": {
+    "eyebrow": "Contact",
+    "title": "Get in touch",
+    "lead": "Fill in the form for a quote, site survey or servicing, or simply give us a call.",
+    "infoTitle": "Contact details",
+    "formTitle": "Send us a message",
+    "mapTitle": "Location",
+    "mapLoad": "Load map",
+    "mapNote": "The map is loaded from Google Maps and may set Google cookies.",
+    "openInMaps": "Open in Google Maps",
+    "serviceArea": "We serve all of Istanbul and are close to Bahçelievler, Bakırköy, Küçükçekmece, Esenyurt and Başakşehir."
+  },
+  "Quote": {
+    "eyebrow": "Quote",
+    "title": "Get a quote or book a free site survey",
+    "lead": "A few details are all we need. Once we receive your request, we'll call you to understand exactly what you need.",
+    "benefitsTitle": "What happens next?",
+    "benefits": {
+      "call": "We review your request and give you a call.",
+      "survey": "If needed, we survey your premises free of charge.",
+      "offer": "You receive a clear, written quote."
+    }
+  },
+  "Legal": {
+    "updated": "Last updated: {date}",
+    "draftNote": "This text is provided for information and will be legally reviewed before publication."
+  },
+  "NotFound": {
+    "title": "We couldn't find that page",
+    "text": "It may have been moved or removed. You can continue from one of the links below.",
+    "home": "Back to home",
+    "products": "Browse products",
+    "contact": "Contact us"
+  },
+  "Error": {
+    "title": "Something went wrong",
+    "text": "An unexpected error occurred while loading the page. Please try again.",
+    "retry": "Try again",
+    "home": "Back to home"
+  }
+}
